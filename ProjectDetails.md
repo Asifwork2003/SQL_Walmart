@@ -6,26 +6,26 @@ This project aims to explore the Walmart Sales data to understand top performing
 
 1. Product Analysis
 
-> Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
+> Conducted analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
 2. Sales Analysis
 
-> This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
+> This analysis aimed to answer the question of the sales trends of product. The result of this helped to measure the effectiveness of each sales strategy that the business applies and what modifications are needed to gain more sales.
 
 3. Customer Analysis
 
-> This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+> This analysis uncovered the different customers segments, purchase trends and the profitability of each customer segment.
 
 ## Approach Used
 
-1. **Data Wrangling:** This is the first step where inspection of data is done to make sure **NULL** values and missing values are detected and data replacement methods are used to replace, missing or **NULL** values.
-2. **Feature Engineering:** This will help use generate some new columns from existing ones.
+1. **Data Wrangling:** This is the first step where inspection of data was done to make sure **NULL** values and missing values are detected and data replacement methods are used to replace, missing or **NULL** values.
+2. **Feature Engineering:** This helped generate some new columns from existing ones.
 
-> 1. Add a new column named `time_of_day` to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
+> 1. Adding a new column named `time_of_day` to give insight of sales in the Morning, Afternoon and Evening. This helped answer the question on which part of the day most sales are made.
 
-> 2. Add a new column named `day_name` that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
+> 2. Adding a new column named `day_name` that contains the extracted days of the week on which the given transactions took place (Mon, Tue, Wed, Thur, Fri). This helped answer the question on which week of the day each branch is the busiest.
 
-> 3. Add a new column named `month_name` that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
+> 3. Adding a new column named `month_name` that contains the extracted months of the year on which the given transactions took place (Jan, Feb, Mar). this helped determine which month of the year has the most sales and profits.
 
 3. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
 
