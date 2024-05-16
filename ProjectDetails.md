@@ -71,3 +71,6 @@ This project aims to explore the Walmart Sales data to understand top performing
 8. Which time of the day do customers give most ratings per branch?
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
+
+## Credits
+I have completed this project with the help of a youtube tutorial: https://www.youtube.com/watch?v=Qr1Go2gP8fo
